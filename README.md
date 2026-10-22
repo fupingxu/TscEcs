@@ -1,4 +1,5 @@
 The algorithm TscEcs comes from the following article：
+```
 @article{XU2027102814,
 title = {TscEcs: two-stage clustering using edge-cutting and statistics based on proximity graphs},
 journal = {Information Systems},
@@ -10,6 +11,7 @@ doi = {https://doi.org/10.1016/j.is.2026.102814},
 url = {https://www.sciencedirect.com/science/article/pii/S0306437926001286},
 author = {Fuping Xu and Lanqi Xu}
 }
+```
 TscEcs is an improvement over CutESC.
 The algorithm CutESC comes from the following article：
 CutESC: Cutting Edge Spatial Clustering Technique based on Proximity Graphs
